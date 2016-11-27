@@ -1,0 +1,33 @@
+[19:33:50] [Server thread/INFO]: Starting minecraft server version 1.11
+[19:33:50] [Server thread/INFO]: Loading properties
+[19:33:50] [Server thread/INFO]: Default game type: SURVIVAL
+[19:33:50] [Server thread/INFO]: Generating keypair
+[19:33:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:33:53] [Server thread/INFO]: Using default channel type
+[19:33:53] [Server thread/INFO]: Preparing level "world"
+[19:33:55] [Server thread/INFO]: Preparing start region for level 0
+[19:34:00] [Server thread/INFO]: Preparing spawn area: 0%
+[19:34:01] [Server thread/INFO]: Preparing spawn area: 2%
+[19:34:02] [Server thread/INFO]: Preparing spawn area: 7%
+[19:34:03] [Server thread/INFO]: Preparing spawn area: 14%
+[19:34:04] [Server thread/INFO]: Preparing spawn area: 20%
+[19:34:05] [Server thread/INFO]: Preparing spawn area: 28%
+[19:34:06] [Server thread/INFO]: Preparing spawn area: 37%
+[19:34:07] [Server thread/INFO]: Preparing spawn area: 45%
+[19:34:08] [Server thread/INFO]: Preparing spawn area: 55%
+[19:34:09] [Server thread/INFO]: Preparing spawn area: 65%
+[19:34:10] [Server thread/INFO]: Preparing spawn area: 77%
+[19:34:11] [Server thread/INFO]: Preparing spawn area: 89%
+[19:34:12] [Server thread/INFO]: Done (18.928s)! For help, type "help" or "?"
+[19:34:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2637ms behind, skipping 52 tick(s)
+[19:35:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2229ms behind, skipping 44 tick(s)
+[19:41:24] [Server thread/INFO]: Stopping the server
+[19:41:24] [Server thread/INFO]: Stopping server
+[19:41:24] [Server thread/INFO]: Saving players
+[19:41:24] [Server thread/INFO]: Saving worlds
+[19:41:25] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[19:41:25] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[19:41:25] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[19:41:25] [Server Shutdown Thread/INFO]: Stopping server
+[19:41:25] [Server Shutdown Thread/INFO]: Saving players
+[19:41:25] [Server Shutdown Thread/INFO]: Saving worlds
