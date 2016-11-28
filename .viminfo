@@ -14,9 +14,9 @@
 $
 
 # Command Line History (newest to oldest):
-:q
 :wq
 :q!
+:q
 
 # Search String History (newest to oldest):
 ?/bin/bash
@@ -28,24 +28,28 @@ $
 # Input Line History (newest to oldest):
 
 # Registers:
-""0	CHAR	0
+"0	CHAR	0
 	/
-"-	CHAR	0
-	/
+""-	CHAR	0
+	e
 
 # File marks:
-'0  17  0  /usr/include/boost/locale
-'1  1  0  /usr/include/boost/local
-'2  31  2  /usr/include/c++/4.9.1/locale
-'3  1  0  /etc/default/locale
-'4  2  3  /etc/localtime
-'5  1  0  /etc/locale.gen
-'6  17  140  ~/tmux/tmux_local_install.sh
-'7  1  20  ~/tmux/tmux_local_install.sh
-'8  93  4  ~/tmux/tmux_local_install.sh
-'9  1  3  ~/.gitignore
+'0  33  16  ~/minecraft/server.properties
+'1  22  15  ~/minecraft/server.properties
+'2  1  0  /usr/sbin/iptables-save
+'3  17  0  /usr/include/boost/locale
+'4  1  0  /usr/include/boost/local
+'5  31  2  /usr/include/c++/4.9.1/locale
+'6  1  0  /etc/default/locale
+'7  2  3  /etc/localtime
+'8  1  0  /etc/locale.gen
+'9  17  140  ~/tmux/tmux_local_install.sh
 
 # Jumplist (newest first):
+-'  33  16  ~/minecraft/server.properties
+-'  22  15  ~/minecraft/server.properties
+-'  1  0  /usr/sbin/iptables-save
+-'  1  0  ~/minecraft/server.properties
 -'  17  0  /usr/include/boost/locale
 -'  1  0  /usr/include/boost/local
 -'  31  2  /usr/include/c++/4.9.1/locale
@@ -139,13 +143,18 @@ $
 -'  1  0  ~/minecraft/eula.txt
 -'  1  0  ~/.profile
 -'  1  0  ~/.profile
--'  3  8  ~/minecraft/eula.txt
--'  1  0  ~/minecraft/eula.txt
--'  1  0  ~/.profile
--'  1  0  ~/.profile
--'  1  0  ~/.ssh/id_rsa.pub
 
 # History of marks within files (newest to oldest):
+
+> ~/minecraft/server.properties
+	"	33	16
+	^	33	17
+	.	33	16
+	+	19	12
+	+	33	16
+
+> /usr/sbin/iptables-save
+	"	1	0
 
 > /usr/include/boost/local
 	"	1	0
