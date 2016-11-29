@@ -30,3 +30,10 @@
 [02:33:37] [Server thread/INFO]: Silpois left the game
 [02:33:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 31354ms behind, skipping 627 tick(s)
 [02:33:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2100ms behind, skipping 42 tick(s)
+[03:07:57] [Server thread/INFO]: Stopping the server
+[03:07:57] [Server thread/INFO]: Stopping server
+[03:07:57] [Server thread/INFO]: Saving players
+[03:07:57] [Server thread/INFO]: Saving worlds
+[03:07:57] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[03:07:57] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[03:07:57] [Server thread/INFO]: Saving chunks for level 'world'/The End
