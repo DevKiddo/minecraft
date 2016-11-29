@@ -11,7 +11,7 @@ Finally, run `run.sh` in the minecraft folder to start the server.
 You may also want to delete world in the minecraft folder since I'll be using this 
 repo as a backup for my minecraft world.
 
-Make sure you go over the resources below. If you have any questions, create an issue.
+Make sure you go over the resources below. If you have any questions, create an issue!
 
 Resources:
 
