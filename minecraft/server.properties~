@@ -1,6 +1,6 @@
 #Minecraft server properties
 #Tue Nov 29 02:32:20 UTC 2016
-max-tick-time=100000
+max-tick-time=60000
 generator-settings=
 force-gamemode=false
 allow-nether=true

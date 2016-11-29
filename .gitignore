@@ -1,1 +1,4 @@
 .ssh
+.bash_history
+.gitconfig
+.viminfo
