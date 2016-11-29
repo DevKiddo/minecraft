@@ -20,6 +20,7 @@ http://www.minecraftforum.net/forums/support/server-support/server-administratio
 * Iptables - MineOS: https://minecraft.codeemo.com/mineoswiki/index.php?title=Iptables
 * Minecraft - How to Port Foward: https://www.youtube.com/watch?v=feJ0V12FmTQ
 * Port Fowarding Tester: http://www.yougetsignal.com/tools/open-ports/
-* SSL -  Java cacerts: 
+* Listening to 25565 - netcast: https://ubuntuforums.org/archive/index.php/t-1637834.html
+* SSL - Java cacerts: 
 http://www.minecraftforum.net/forums/support/server-support/1882931-1-7-server-authenticator
 
