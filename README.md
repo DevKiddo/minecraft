@@ -2,7 +2,7 @@
 
 Small Minecraft Server running on Intel Edison's Yocto Project.
 
-Feel free to clone the repo to make your own server. Java, Htop, and Screen have all been 
+Feel free to clone the repo to make your own server. Htop and Screen have both been 
 pre-compiled so just run `make install` in their respective directories. Don't forget to run 
 `iptables-restore < iptables.rules` to apply the necessary security rules, and move cacerts to 
 java's certificates/security directory (run `find -name "cacerts"` to get the actual path). 
