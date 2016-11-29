@@ -5,7 +5,7 @@ Small Minecraft Server running on Intel Edison's Yocto Project.
 Feel free to clone the repo to make your own server on an Intel Edison. Java, htop, and 
 screen have all been pre-compiled so just run `make install` on their respective directories. Run 
 `iptables-restore < iptables.rules` to apply the necessary security rules, and move cacerts to 
-java's certificates/security directory (run `find cacerts -name` to get the actual path). 
+java's certificates/security directory (run `find -name "cacerts"` to get the actual path). 
 
 You might also want to delete world in the minecraft folder since I'll be using this 
 repo as a backup for my minecraft world.
