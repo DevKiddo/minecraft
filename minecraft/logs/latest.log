@@ -1,41 +1,33 @@
-[00:22:21] [Server thread/INFO]: Starting minecraft server version 1.11
-[00:22:21] [Server thread/INFO]: Loading properties
-[00:22:22] [Server thread/INFO]: Default game type: SURVIVAL
-[00:22:22] [Server thread/INFO]: Generating keypair
-[00:22:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:22:25] [Server thread/INFO]: Using default channel type
-[00:22:26] [Server thread/INFO]: Preparing level "world"
-[00:22:27] [Server thread/INFO]: Preparing start region for level 0
-[00:22:34] [Server thread/INFO]: Preparing spawn area: 0%
-[00:22:35] [Server thread/INFO]: Preparing spawn area: 2%
-[00:22:36] [Server thread/INFO]: Preparing spawn area: 8%
-[00:22:37] [Server thread/INFO]: Preparing spawn area: 14%
-[00:22:38] [Server thread/INFO]: Preparing spawn area: 21%
-[00:22:39] [Server thread/INFO]: Preparing spawn area: 26%
-[00:22:40] [Server thread/INFO]: Preparing spawn area: 33%
-[00:22:41] [Server thread/INFO]: Preparing spawn area: 40%
-[00:22:42] [Server thread/INFO]: Preparing spawn area: 47%
-[00:22:43] [Server thread/INFO]: Preparing spawn area: 55%
-[00:22:44] [Server thread/INFO]: Preparing spawn area: 62%
-[00:22:45] [Server thread/INFO]: Preparing spawn area: 69%
-[00:22:46] [Server thread/INFO]: Preparing spawn area: 73%
-[00:22:47] [Server thread/INFO]: Preparing spawn area: 82%
-[00:22:48] [Server thread/INFO]: Preparing spawn area: 92%
-[00:22:49] [Server thread/INFO]: Done (23.222s)! For help, type "help" or "?"
-[00:22:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3594ms behind, skipping 71 tick(s)
-[00:23:28] [User Authenticator #1/INFO]: UUID of player Silpois is 10146b0e-04db-4c66-a23c-e1e3d4cbb46a
-[00:23:28] [Server thread/INFO]: Silpois[/192.168.1.1:51252] logged in with entity id 208 at (-195.96373459455407, 66.0, 126.85997440779909)
-[00:23:28] [Server thread/INFO]: Silpois joined the game
-[00:23:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2102ms behind, skipping 42 tick(s)
-[00:24:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 23517ms behind, skipping 470 tick(s)
-[00:24:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2199ms behind, skipping 43 tick(s)
-[00:24:31] [Server thread/INFO]: Silpois lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:24:31] [Server thread/INFO]: Silpois left the game
-[00:24:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3369ms behind, skipping 67 tick(s)
-[00:24:43] [Server thread/INFO]: Stopping the server
-[00:24:43] [Server thread/INFO]: Stopping server
-[00:24:43] [Server thread/INFO]: Saving players
-[00:24:43] [Server thread/INFO]: Saving worlds
-[00:24:43] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[00:24:44] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[00:24:44] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[00:27:23] [Server thread/INFO]: Starting minecraft server version 1.11
+[00:27:23] [Server thread/INFO]: Loading properties
+[00:27:24] [Server thread/INFO]: Default game type: SURVIVAL
+[00:27:24] [Server thread/INFO]: Generating keypair
+[00:27:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:27:26] [Server thread/INFO]: Using default channel type
+[00:27:26] [Server thread/INFO]: Preparing level "world"
+[00:27:29] [Server thread/INFO]: Preparing start region for level 0
+[00:27:35] [Server thread/INFO]: Preparing spawn area: 0%
+[00:27:36] [Server thread/INFO]: Preparing spawn area: 2%
+[00:27:37] [Server thread/INFO]: Preparing spawn area: 8%
+[00:27:38] [Server thread/INFO]: Preparing spawn area: 15%
+[00:27:39] [Server thread/INFO]: Preparing spawn area: 22%
+[00:27:40] [Server thread/INFO]: Preparing spawn area: 28%
+[00:27:41] [Server thread/INFO]: Preparing spawn area: 34%
+[00:27:42] [Server thread/INFO]: Preparing spawn area: 41%
+[00:27:43] [Server thread/INFO]: Preparing spawn area: 49%
+[00:27:44] [Server thread/INFO]: Preparing spawn area: 56%
+[00:27:45] [Server thread/INFO]: Preparing spawn area: 64%
+[00:27:46] [Server thread/INFO]: Preparing spawn area: 71%
+[00:27:47] [Server thread/INFO]: Preparing spawn area: 75%
+[00:27:48] [Server thread/INFO]: Preparing spawn area: 85%
+[00:27:49] [Server thread/INFO]: Preparing spawn area: 94%
+[00:27:50] [Server thread/INFO]: Done (23.216s)! For help, type "help" or "?"
+[00:27:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3253ms behind, skipping 65 tick(s)
+[00:27:58] [Server thread/INFO]: Stopping the server
+[00:27:59] [Server thread/INFO]: Stopping server
+[00:27:59] [Server thread/INFO]: Saving players
+[00:27:59] [Server thread/INFO]: Saving worlds
+[00:27:59] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[00:28:01] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[00:28:01] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[00:28:02] [Server Shutdown Thread/INFO]: Stopping server
