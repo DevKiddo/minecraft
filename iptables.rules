@@ -28,7 +28,7 @@ COMMIT
 :OUTPUT ACCEPT [30:4808]		
 #  Allow loopback (lo0) traffic and drop all traffic to 127/8 that doesn't use the lo0 interface
 -A INPUT -i lo -j ACCEPT
--A INPUT ! -i lo -d 127.0.0.1/8 -j REJECT	
+-A INPUT ! -i lo -d 127.0.0.0/8 -j REJECT	
 #  Accept established inbound connections
 -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
 #  Allow all outgoing traffic
