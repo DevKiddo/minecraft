@@ -8,9 +8,8 @@ pre-compiled so just run `make install` in their respective directories. Don't f
 java's certificates/security directory (run `find -name "cacerts"` to get the actual path). 
 Finally, run `run.sh` in the minecraft folder to start the server.
 
-You may also want to delete ~/minecraft/world since I'll be using this 
-repo as a backup for my minecraft world. Or leave it as it is and use an NBT editor
-like nbt2yaml (`pip install nbt2yaml`) to make any changes.
+You may also want to delete world in the minecraft folder since I'll be using this 
+repo as a backup for my minecraft world.
 
 Make sure you go over the resources below. If you have any questions, create an issue!
 
